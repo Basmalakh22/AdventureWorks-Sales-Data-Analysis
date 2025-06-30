@@ -38,7 +38,7 @@ Before visualizing, I ensured the data was clean and analysis-ready. Key steps i
 - Importing and transforming data from the Adventure Works DW source  
 - Ensuring date formats were correct for time-series analysis  
 - Creating calculated columns for `Profit = Revenue - Cost`  
-- Creating DAX measures for KPIs and filters in Power BI
+
 
 ---
 
